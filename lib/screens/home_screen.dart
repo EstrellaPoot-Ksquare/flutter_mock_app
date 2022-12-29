@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mock_app/controller/series_controller.dart';
-import 'package:flutter_mock_app/screens/series.dart';
+import 'package:flutter_mock_app/models/series.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

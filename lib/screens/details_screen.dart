@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_mock_app/screens/series.dart';
+import 'package:flutter_mock_app/models/series.dart';
 
 class DetailsScreen extends StatelessWidget {
   const DetailsScreen({super.key});

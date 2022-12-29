@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutter_mock_app/screens/series.dart';
+import 'package:flutter_mock_app/models/series.dart';
 import 'package:http/http.dart' as http;
 
 class SeriesController {
